@@ -1,0 +1,25 @@
+name: GodsAltar
+version: '1.0-SNAPSHOT'
+main: vg0.plugins.GodsAltar
+api-version: '1.20'
+commands:
+  smite:
+    description: Smites the block you are looking at or the player given
+    usage: /smite OR /smite player
+    aliases: sm
+    permission: smite.vg0
+  bless:
+    description: Gives players a random infinite positive potion effect
+    usage: /bless player
+    aliases: /bl
+    permission: bless.vg0
+  curse:
+    description: Gives players a random infinite negative potion effect
+    usage: /curse player
+    aliases: /cu
+    permission: curse.vg0
+  cleanse:
+    description: Removes all potion effects from a player
+    usage: /cleanse player
+    aliases: /cl
+    permission: cleanse.vg0
