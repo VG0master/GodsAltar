@@ -1,0 +1,203 @@
+{
+  "materialLoot": 
+    {
+      "lootTable": {
+        "DIAMOND": [
+            {
+              "odds": 9,
+              "material": "DIAMOND"
+            },
+            {
+              "odds": 1,
+              "material": "DIAMOND_BLOCK"
+            },
+            {
+              "odds": 1,
+              "material": "DIRT"
+            }
+          ]
+        ,
+        "DIAMOND_BLOCK": [
+            {
+              "odds": 1,
+              "material": "DIRT"
+            },
+            {
+              "odds": 1,
+              "material": "ANVIL"
+            },
+            {
+              "odds": 5,
+              "material": "DIAMOND_BLOCK"
+            },
+            {
+              "odds": 1,
+              "material": "CHERRY_SAPLING"
+            }
+          ]
+        ,
+        "APPLE": [
+            {
+              "odds": 1,
+              "material": "OAK_SAPLING"
+            },
+            {
+              "odds": 1,
+              "material": "GOLDEN_APPLE"
+            },
+            {
+              "odds": 2,
+              "material": "APPLE"
+            }
+          ]
+        ,
+        "EMERALD": [
+            {
+              "odds": 1,
+              "material": "VILLAGER_SPAWN_EGG"
+            },
+            {
+              "odds": 10,
+              "material": "EMERALD"
+            },
+            {
+              "odds": 1,
+              "material": "GRASS"
+            }
+          ]
+        ,
+        "EGG": [
+            {
+              "odds": 1,
+              "material": "FEATHER"
+            },
+            {
+              "odds": 1,
+              "material": "RAW_CHICKEN"
+            }
+          ]
+        ,
+        "GOLDEN_APPLE": [
+            {
+              "odds": 1,
+              "material": "DIAMOND"
+            },
+            {
+              "odds": 3,
+              "material": "GOLDEN_APPLE"
+            }
+          ]
+        ,
+        "ENCHANTED_GOLDEN_APPLE":[
+            {
+              "odds": 50,
+              "material": "ENCHANTED_GOLDEN_APPLE"
+            },
+            {
+              "odds": 2,
+              "material": "INFESTED_STONE"
+            }
+          ]
+        ,
+        "IRON_INGOT": [
+            {
+              "odds": 1,
+              "material": "IRON_HOE"
+            },
+            {
+              "odds": 3,
+              "material": "IRON_INGOT"
+            },
+            {
+              "odds": 1,
+              "material": "GOLD_INGOT"
+            }
+          ]
+        ,
+        "WATER_BUCKET": [
+            {
+              "odds": 1,
+              "material": "COD_SPAWN_EGG"
+            },
+            {
+              "odds": 1,
+              "material": "SALMON_SPAWN_EGG"
+            }
+          ]
+        ,
+        "SEA_PICKLE": [
+            {
+              "odds": 1,
+              "material": "END_ROD"
+            },
+            {
+              "odds": 1,
+              "material": "TORCH"
+            }
+          ]
+        ,
+        "FARMLAND": [
+            {
+              "odds": 1,
+              "material": "SPAWNER"
+            },
+            {
+              "odds": 10,
+              "material": "CRAFTING_TABLE"
+            }
+          ]
+        ,
+        "FURNACE": [
+            {
+              "odds": 1,
+              "material": "COAL"
+            },
+            {
+              "odds": 3,
+              "material": "COBBLESTONE"
+            }
+          ]
+        ,
+        "COCOA_BEANS": [
+            {
+              "odds": 1,
+              "material": "COPPER_BLOCK"
+            },
+            {
+              "odds": 1,
+              "material": "COW_SPAWN_EGG"
+            },
+            {
+              "odds": 5,
+              "material": "COOKIE"
+            }
+          ]
+        ,
+        "CREEPER_HEAD": [
+            {
+              "odds": 1,
+              "material": "CREEPER_SPAWN_EGG"
+            },
+            {
+              "odds": 3,
+              "material": "PHANTOM_MEMBRANE"
+            }
+          ]
+        ,
+        "NAUTILUS_SHELL": [
+            {
+              "odds": 1,
+              "material": "TRIDENT"
+            },
+            {
+              "odds": 3,
+              "material": "FERN"
+            },
+            {
+              "odds": 1,
+              "material": "DROWNED_SPAWN_EGG"
+            }
+          ]
+      }
+    }
+}
